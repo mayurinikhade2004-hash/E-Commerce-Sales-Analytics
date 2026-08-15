@@ -53,6 +53,9 @@ The project includes SQL queries for:
 
 ## 📈 Power BI Dashboard
 
+![E-Commerce Sales Analytics Dashboard](dashboard.png)
+
+
 The dashboard provides an overview of:
 
 * Total Revenue: **£8.89M**
